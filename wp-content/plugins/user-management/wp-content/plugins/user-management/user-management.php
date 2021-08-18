@@ -1,11 +1,9 @@
 <?php
 /*
  * Plugin Name:   مدیریت کاربران وردپرس
- * Plugin URI:  https://wordpress.org/plugins/classic-editor/
  * Description: حذف کردن،آپدیت کردن اطلاعات موبایل و کیف پول کاربر
  * Version:     1.0.0
  * Author:      re-BIRJANDI
- * Author URI:  https://7learn.com/
  * Text Domain: users-management
  * Domain Path: /languages
  */
